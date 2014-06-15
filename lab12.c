@@ -19,8 +19,6 @@
 
 struct gameData {
 	char map[3][3];
-	char fin;
-	char mov;
 	char pCount;
 	char state;
 	int w,h;
